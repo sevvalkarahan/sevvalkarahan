@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.pinimg.com/originals/1d/72/a2/1d72a2ecc5710dcabf7c0e95e3bccb16.gif" >
+  <img src="https://raw.githubusercontent.com/sevvalkarahan/sevvalkarahan/banner.gif" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Sevval Karahan</h1>
