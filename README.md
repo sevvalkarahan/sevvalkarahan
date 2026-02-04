@@ -12,7 +12,17 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/%C5%9Fevval-karahan-429b58221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şevval karahan" height="30" width="40" /></a>
+  
+  <a href="https://www.linkedin.com/in/%C5%9Fevval-karahan-429b58221/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şevval karahan" height="30" width="40" />
+  </a>
+  
+  <a href="https://my-portfolio-mu-one-99.vercel.app/" target="blank">
+    <img align="center" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7f7bd6a8-c6e5-418b-8cd1-eda3c806deca" />
+
+
+
+  </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
